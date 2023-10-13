@@ -108,7 +108,8 @@ button {
 
 @media screen and (min-width: 641px) and (max-width: 1023px) {
     body {
-        width: 95%;
+        width: 93%;
+        margin: 0 auto;
     }
 
     #sobre-a-loja .container {
